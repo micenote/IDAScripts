@@ -1,3 +1,3 @@
 # IDAScripts
-IDA PRO 7.0
-support Wow Classic
+1,Dump memory Wow Classic, then open in IDA PRO 7.0
+2,run script
